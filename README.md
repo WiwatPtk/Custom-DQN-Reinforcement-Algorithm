@@ -1,4 +1,4 @@
-# DQN-Reinforcement-Custom-Algorithm
+# Custom-DQN-Reinforcement-Algorithm-for-CartPole
 This is the first step to understanding what the DQN algorithm is.
 ## File 
 There are 3 main file
